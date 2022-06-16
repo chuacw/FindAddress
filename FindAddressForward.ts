@@ -1,6 +1,3 @@
-// import { WebSocketProvider } from "@ethersproject/providers";
-// import { ethers } from "ethers";
-
 import { utils } from "ethers";
 import { USDTABI } from "./consts/USDTABI";
 import { ExtractFileDir, FileExists } from "delphirtl/SysUtils";

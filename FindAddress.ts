@@ -1,11 +1,7 @@
-// import { WebSocketProvider } from "@ethersproject/providers";
-// import { ethers } from "ethers";
 import { ParamStr } from "delphirtl/rtl";
 import { ExtractFileDir } from "delphirtl/sysutils";
 import { utils } from "ethers";
 import { USDTABI } from "./consts/USDTABI";
-// import { ParamStr } from "./lib/rtl";
-// import { ExtractFileDir } from "./lib/sysutils";
 
 namespace GetPastLogs {
     console.log("Token Address Finder v0.3");
