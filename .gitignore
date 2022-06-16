@@ -1,0 +1,6 @@
+.env
+.env.new
+forward.env
+*.env
+run.cmd
+node_modules/
